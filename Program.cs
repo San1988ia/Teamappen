@@ -7,7 +7,7 @@ class Program
         Console.OutputEncoding = System.Text.Encoding.UTF8;
 
         Console.WriteLine("De tre muskutörerna");
-        Console.WriteLine("Välkommen Sania och Jessica!");
+        Console.WriteLine("Tjolahopp!");
         Console.WriteLine();
 
         Team.PrintMembers();
