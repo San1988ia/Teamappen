@@ -5,6 +5,7 @@ static class Team
     static List<string> members = new List<string>
     {
         "Jessica",
+        "Stephanie",
         // Lägg till ert namn här, ett per rad
     };
 
