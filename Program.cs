@@ -14,7 +14,7 @@ class Program
         Team.PrintMembers();
         Console.WriteLine();
 
-        Console.WriteLine($"Dagens citat: {Quotes.GetQuote()}");
+        Console.WriteLine($"Dagens citat: {Quotes.GetRandomQuotes()}");
     }
 }
 

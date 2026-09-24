@@ -12,7 +12,7 @@ static class Quotes
         "Blå blå himmels blå",
     };
 
-    public static string GetQuote()
+    public static string GetRandomQuotes()
     {
         Random random = new Random();
         return quotes[random.Next(quotes.Count)];
