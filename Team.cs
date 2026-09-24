@@ -12,7 +12,7 @@ static class Team
 
     public static void PrintMembers()
     {
-        Console.WriteLine("Teammedlemmar:");
+        Console.WriteLine("Vi som gjort appen (i ordning av bästa personen):");
         foreach (string member in members)
         {
             Console.WriteLine($"- {member}");
