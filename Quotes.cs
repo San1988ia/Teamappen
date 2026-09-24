@@ -8,6 +8,8 @@ static class Quotes
         "Det fungerar på min dator.",
         "Strålande blå sol",
         "hej babes",
+        "Roses are red, violets are blue, keep calm § and code on.",
+        "Blå blå himmels blå",
     };
 
     public static string GetQuote()
