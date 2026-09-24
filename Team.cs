@@ -6,6 +6,7 @@ static class Team
     {
         "Jessica",
         "Stephanie",
+        "Sania the one and only",
         // Lägg till ert namn här, ett per rad
     };
 
