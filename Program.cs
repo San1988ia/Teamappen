@@ -8,6 +8,7 @@ class Program
 
         Console.WriteLine("De tre muskutörerna");
         Console.WriteLine("Tjolahopp!");
+        Console.WriteLine("hej babe");
         Console.WriteLine();
 
         Team.PrintMembers();
