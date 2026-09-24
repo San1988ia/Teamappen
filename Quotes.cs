@@ -7,6 +7,7 @@ static class Quotes
         "Commit early, commit often.",
         "Det fungerar på min dator.",
         "Strålande blå sol",
+        "Blå blå himmels blå",
     };
 
     public static string GetQuote()
