@@ -4,6 +4,7 @@ static class Team
 {
     static List<string> members = new List<string>
     {
+        "Jessica",
         // Lägg till ert namn här, ett per rad
     };
 
